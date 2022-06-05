@@ -8,6 +8,6 @@ def linear_search(A, key):
     return -1               #O(1)
 
 Array = [12, 4, 3, 51, 99]
-print(linear_search(Array, 3))
+print(linear_search(Array, 2))
 
 # time complexity O(n)
