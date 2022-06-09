@@ -11,3 +11,6 @@ def insertion_sort(A):
 Array = [2,3,1,11,6,4]
 insertion_sort(Array)
 print(Array)
+
+# time complexity , Comparison: 1 + 2 + 3 + ... + n-1 = n(n-1)/2 = O(n^2)
+#                   Swapping: 1 + 2 + 3 + ... + n-1 = n(n-1)/2 = O(n^2)
